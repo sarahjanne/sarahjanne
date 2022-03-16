@@ -17,6 +17,6 @@
   </div>
  <div>
   <img align="right" alt="Novo Projeto" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/953420371946770465/953420461289635951/Novo_Projeto.gif">
-  ![Snake animation](https://github.com/sarahjanne)
+  ![Snake animation](https://github.com/sarahjanne/sarahjanne)
  </div>
 
