@@ -18,5 +18,4 @@
  <div>
   <img align="right" alt="Novo Projeto" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/953420371946770465/953420461289635951/Novo_Projeto.gif">
  </div>
-![Snake animation](https://github.com/sarahjanne/sarahjanne/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/sarahjanne/sarahjanne/blob/output/github-contribution-grid-snake.svg)
