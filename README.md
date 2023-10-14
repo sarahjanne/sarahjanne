@@ -19,5 +19,5 @@
 
   ![Snake animation](https://github.com/sarahjanne/sarahjanne/blob/output/github-contribution-grid-snake.svg)
  <div>
-  <img align="right" alt="Novo Projeto" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/953420371946770465/953420461289635951/Novo_Projeto.gif">
+  <img align="right" alt="Novo Projeto" height="150" style="border-radius:50px;" src="https://github.com/sarahjanne/Modulo-7-e-8/blob/cfcc52168f47295255ef4f7532daf98a95f372a3/sticker.gif">
  </div>
