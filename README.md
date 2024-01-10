@@ -1,4 +1,4 @@
-### Oii, sou a Sarah Janne ♥
+### Oi! Sou a Sarah 
 
 - Trabalho como social media e Ax. de suporte técnico em T.I
 - Técnico em Processamento de dados | Bacharelado em Sistemas de Informações
