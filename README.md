@@ -1,8 +1,10 @@
 ### Oii, sou a Sarah Janne ♥
 
-- 🔭 Eu atualmente trabalho como social media
-- 🌱 Eu estou estudando react e node
-- 😄 Pronouns: ela/dela
+- Trabalho como social media e Ax. de suporte técnico em T.I
+- Técnico em Processamento de dados | Bacharelado em Sistemas de Informações
+- Design para web e dispositivos móveis
+
+
 
  <div align="center">
   <a href="https://www.instagram.com/sarahj.tech/">
