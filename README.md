@@ -15,11 +15,6 @@
   </div>
 
 
-  ![Snake animation](https://github.com/sarahjanne/sarahjanne/blob/output/github-contribution-grid-snake.svg)
- <div>
-  <img align="right" alt="Novo Projeto" height="150" style="border-radius:50px;" src="https://github.com/sarahjanne/Modulo-7-e-8/blob/cfcc52168f47295255ef4f7532daf98a95f372a3/sticker.gif">
- </div>
-
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarahjanne/sarahjanne/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarahjanne/sarahjanneoutput/github-contribution-grid-snake.svg">
